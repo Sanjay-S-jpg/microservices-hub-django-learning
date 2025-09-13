@@ -1,0 +1,12 @@
+Django>=5.0,<6.0
+djangorestframework>=3.15
+mysqlclient>=2.2  
+
+#Make sure use your POSTMAN for testing local api.
+
+#Perform all kind of requests like GET, POST, PUT, DELETE.
+
+#You can also test your api using browser or using curl commands.
+
+#You can create fake api from https://jsonplaceholder.typicode.com/ for testing purpose.
+
