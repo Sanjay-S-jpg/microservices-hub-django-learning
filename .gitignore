@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+*/migrations/*
+.env
+
+# Pipenv & virtualenv
+Pipfile
+Pipfile.lock
+.venv/
