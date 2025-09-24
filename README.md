@@ -39,5 +39,5 @@ Each folder is a standalone Django project tested using **Postman**.
 - Postman (for API testing)
 
 ---
-
+### Must use Postman for all API requests
 
